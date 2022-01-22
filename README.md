@@ -1,0 +1,2 @@
+# ScalaSwingUtils
+ Scala Swing utilities
